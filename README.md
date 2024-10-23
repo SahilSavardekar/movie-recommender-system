@@ -10,6 +10,6 @@
 ### Technologies Used
 - **Language**: Python
 - **Libraries**: `pandas`, `numpy`, `scikit-learn`
-- **Dataset**: MovieLens or TMDB API
+- **Dataset**: TMDB API
 
 
